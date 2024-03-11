@@ -1,0 +1,6 @@
+@ParaTi.Dashboard.WebAPI_HostAddress = http://localhost:5058
+
+GET {{ParaTi.Dashboard.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
